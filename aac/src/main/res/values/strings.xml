@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AAC</string>
+    <string name="list_item_defalut">no available text shown</string>
 </resources>
